@@ -1,0 +1,67 @@
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.csproj.AssemblyReference.cache
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.AdminCustomer.resources
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.AdminEvent.resources
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.AdminstratorMainMenu.resources
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.Properties.Resources.resources
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.csproj.GenerateResource.cache
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.AssemblyInfoInputs.cache
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.AssemblyInfo.cs
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.csproj.CoreCompileInputs.cache
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\Stadium Management System.exe
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\Stadium Management System.deps.json
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\Stadium Management System.runtimeconfig.json
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\Stadium Management System.runtimeconfig.dev.json
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\Stadium Management System.dll
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\Stadium Management System.pdb
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.dll
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.pdb
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.genruntimeconfig.cache
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.Home.resources
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.UserMainMenu.resources
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.UserEvent.resources
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.LoginForm.resources
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.RegisterForm.resources
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.csproj.CopyComplete
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.AboutusForm.resources
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.UserReservation.resources
+C:\Users\adenm\source\repos\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.AdminTicket.resources
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\Stadium Management System.exe
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\Stadium Management System.deps.json
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\Stadium Management System.runtimeconfig.json
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\Stadium Management System.runtimeconfig.dev.json
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\Stadium Management System.dll
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\Stadium Management System.pdb
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.csproj.AssemblyReference.cache
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.AboutusForm.resources
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.AdminCustomer.resources
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.AdminEvent.resources
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.AdminstratorMainMenu.resources
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.AdminTicket.resources
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.Home.resources
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.LoginForm.resources
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.Properties.Resources.resources
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.RegisterForm.resources
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.UserEvent.resources
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.UserMainMenu.resources
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium_Management_System.UserReservation.resources
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.csproj.GenerateResource.cache
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.AssemblyInfoInputs.cache
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.AssemblyInfo.cs
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.csproj.CoreCompileInputs.cache
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.csproj.CopyComplete
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.dll
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.pdb
+C:\Users\sitra\Desktop\hilcoe\another2 proj\Stadium Management System\Stadium Management System\obj\Debug\netcoreapp3.1\Stadium Management System.genruntimeconfig.cache
