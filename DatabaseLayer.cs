@@ -11,7 +11,7 @@ namespace Stadium_Management_System
 {
     class DatabaseLayer
     {
-        string conStr = "server=LAPTOP-IGLVT0LN;database=stadiumdatabase;uid=project;pwd=123";
+        string conStr = "Data Source=DESKTOP-HJBR0PP\\SQLEXPRESS02;Initial Catalog=stadiumdatabase;Integrated Security=True";
         //User
         public void saveUserByStoreProc(User u)
         {
